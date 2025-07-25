@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tejaswini and I'm a Web Developer, from India</h2 > 
+<h2 align="left">Hi 👋! My name is Tejaswini and I'm a Web Developer, from India</h2 >  
   
 ###       
 
