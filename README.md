@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   <img width="1128" height="191" alt="Graphic Designer" src="https://github.com/user-attachments/assets/ba9d7ce4-53a7-43c6-8430-5e2c9528fa77" />
 
 
