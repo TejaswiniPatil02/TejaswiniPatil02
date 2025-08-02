@@ -1,8 +1,4 @@
-<div align="center"> 
-  <img width="1128" height="191" alt="Graphic Designer" src="https://github.com/user-attachments/assets/ba9d7ce4-53a7-43c6-8430-5e2c9528fa77" />
 
-
-</div>
 <h1 align="center">Hi 👋, I'm Tejaswini</h1>
 <div align="center">
   <img src=https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif width="400">
