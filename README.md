@@ -21,9 +21,9 @@
 - 👀 I’m interested in full-stack developement, open source projects. I also love blockchain technologies!.
 - 🔭 I’m currently working on** C#.Net & Web Developer**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **.Net Frameworks**
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Frontend & c #**
 
 - 👯 I’m looking to collaborate on impactful open-source projects related to Al,DevOps automation,aLet's create something cool together!.
 
