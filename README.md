@@ -36,7 +36,7 @@
   
 <a href="https://linkedin.com/in/tejaswini-patil09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejaswini-patil09" height="30" width="40" /></a>
 <a href="https://instagram.com/teju_patil_9797" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teju_patil_9797" height="30" width="40" /></a>
-<a href="mailto:tejaswinip972002@gmail.com"  target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="70" width="80"/></a>
+<a   href="mailto:tejaswinip972002@gmail.com"  target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="70" width="80"/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
