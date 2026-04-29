@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning **.Net Frameworks**
 
 - 💬 Ask me about **Frontend & c #**
-
+   
 - 👯 I’m looking to collaborate on impactful open-source projects related to Al,DevOps automation,aLet's create something cool together!.
 
 - 📫 How to reach me **tejaswinip972002@gmail.com**
